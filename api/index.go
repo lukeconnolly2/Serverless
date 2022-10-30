@@ -1,4 +1,4 @@
-package handler
+package serverless
 
 import (
 	"fmt"
