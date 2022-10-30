@@ -1,3 +1,3 @@
-module serverless/api/index
+module serverless/main
 
 go 1.19
